@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tvde-driver-app",
+    "slug": "tvde-driver-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
